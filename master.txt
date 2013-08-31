@@ -1,2 +1,3 @@
 on branch master
 create tag01 and tag02
+create tag01
